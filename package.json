@@ -2,7 +2,7 @@
   "name": "todo-list-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://acancerouscake.github.io/todo-list",
+  "homepage": "http://acancerouscake.github.io/todo-list-app",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.12.0",
